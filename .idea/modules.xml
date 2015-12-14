@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Algorytmy/Algorytmy.iml" filepath="$USER_HOME$/InteliiJIDEA/Algorytmy/Algorytmy.iml" />
-      <module fileurl="file://$USER_HOME$/InteliiJIDEA/C++VSjava/C++VSJAVA.iml" filepath="$USER_HOME$/InteliiJIDEA/C++VSjava/C++VSJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorytmy/Algorytmy.iml" filepath="$PROJECT_DIR$/Algorytmy/Algorytmy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C++VSjava/C++VSJAVA.iml" filepath="$PROJECT_DIR$/C++VSjava/C++VSJAVA.iml" />
       <module fileurl="file://$USER_HOME$/JavaProjects/GUI/GUI.iml" filepath="$USER_HOME$/JavaProjects/GUI/GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/INTELIIJIDEA.iml" filepath="$PROJECT_DIR$/INTELIIJIDEA.iml" />
-      <module fileurl="file://$USER_HOME$/InteliiJIDEA/MySys/MySys.iml" filepath="$USER_HOME$/InteliiJIDEA/MySys/MySys.iml" />
-      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Osadnicy/Osadnicy.iml" filepath="$USER_HOME$/InteliiJIDEA/Osadnicy/Osadnicy.iml" />
-      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Programowanie/Programowanie.iml" filepath="$USER_HOME$/InteliiJIDEA/Programowanie/Programowanie.iml" />
-      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Różne/Różne.iml" filepath="$USER_HOME$/InteliiJIDEA/Różne/Różne.iml" />
-      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Wzorce/Wzorce.iml" filepath="$USER_HOME$/InteliiJIDEA/Wzorce/Wzorce.iml" />
-      <module fileurl="file://$USER_HOME$/InteliiJIDEA/jsfml0.0003/jsfml0.0003.iml" filepath="$USER_HOME$/InteliiJIDEA/jsfml0.0003/jsfml0.0003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySys/MySys.iml" filepath="$PROJECT_DIR$/MySys/MySys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Osadnicy/Osadnicy.iml" filepath="$PROJECT_DIR$/Osadnicy/Osadnicy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programowanie/Programowanie.iml" filepath="$PROJECT_DIR$/Programowanie/Programowanie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Różne/Różne.iml" filepath="$PROJECT_DIR$/Różne/Różne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wzorce/Wzorce.iml" filepath="$PROJECT_DIR$/Wzorce/Wzorce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsfml0.0003/jsfml0.0003.iml" filepath="$PROJECT_DIR$/jsfml0.0003/jsfml0.0003.iml" />
     </modules>
   </component>
 </project>
