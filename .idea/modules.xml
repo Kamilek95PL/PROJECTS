@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Algorytmy/Algorytmy.iml" filepath="$USER_HOME$/InteliiJIDEA/Algorytmy/Algorytmy.iml" />
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/C++VSjava/C++VSjava.iml" filepath="$USER_HOME$/InteliiJIDEA/C++VSjava/C++VSjava.iml" />
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/GUI/GUI.iml" filepath="$USER_HOME$/InteliiJIDEA/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTELIIJIDEA.iml" filepath="$PROJECT_DIR$/INTELIIJIDEA.iml" />
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/MySys/MySys.iml" filepath="$USER_HOME$/InteliiJIDEA/MySys/MySys.iml" />
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Osadnicy/Osadnicy.iml" filepath="$USER_HOME$/InteliiJIDEA/Osadnicy/Osadnicy.iml" />
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Programowanie/Programowanie.iml" filepath="$USER_HOME$/InteliiJIDEA/Programowanie/Programowanie.iml" />
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Różne/Różne.iml" filepath="$USER_HOME$/InteliiJIDEA/Różne/Różne.iml" />
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/Wzorce/Wzorce.iml" filepath="$USER_HOME$/InteliiJIDEA/Wzorce/Wzorce.iml" />
+      <module fileurl="file://$USER_HOME$/InteliiJIDEA/jsfml0.0003/jsfml0.0003.iml" filepath="$USER_HOME$/InteliiJIDEA/jsfml0.0003/jsfml0.0003.iml" />
+    </modules>
+  </component>
+</project>
