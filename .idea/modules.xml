@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorytmy/Algorytmy.iml" filepath="$PROJECT_DIR$/Algorytmy/Algorytmy.iml" />
       <module fileurl="file://$PROJECT_DIR$/C++VSjava/C++VSjava.iml" filepath="$PROJECT_DIR$/C++VSjava/C++VSjava.iml" />
-      <module fileurl="file://$USER_HOME$/JavaProjects/GUI/GUI.iml" filepath="$USER_HOME$/JavaProjects/GUI/GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/INTELIIJIDEA.iml" filepath="$PROJECT_DIR$/INTELIIJIDEA.iml" />
       <module fileurl="file://$PROJECT_DIR$/MySys/MySys.iml" filepath="$PROJECT_DIR$/MySys/MySys.iml" />
       <module fileurl="file://$PROJECT_DIR$/Osadnicy/Osadnicy.iml" filepath="$PROJECT_DIR$/Osadnicy/Osadnicy.iml" />

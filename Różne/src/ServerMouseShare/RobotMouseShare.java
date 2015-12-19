@@ -1,4 +1,4 @@
-/**
+package ServerMouseShare; /**
  * Created by kamil on 18.12.2015.
  */
 /**
